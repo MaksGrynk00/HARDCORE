@@ -1,8 +1,8 @@
 # TRNG - SQE Mentoring Program
-This is repo for Training LEARNING GIT AND GITHUB.
-Tasks
-HOME TASKs:
-1.	“I CAN WIN” Task
+## This is repo for Training LEARNING GIT AND GITHUB.
+# Tasks
+# HOME TASKs:
+# 1.	“I CAN WIN” Task
 
 1.1	Install git and generate a pair ssh keys. 
 1.2	Register in GitHub. Authorize public key in github.com.
@@ -14,7 +14,7 @@ HOME TASKs:
 1.8	Using github web-interface add the second half of song text and make commit with name "finish my song".
 1.9	In your local repository pull the changes and make sure that the changes made with the second commit are available, and you are able to see full text of the song. 
 
-2.	“I BRING IT ON” Task
+# 2.	“I BRING IT ON” Task
 This task is based on the previous one (“I Can Win”)
 2.1	Add to your project file .gitignore and set this up to hide files with extensions .db, .log, etc. and folders with names ‘target’ , ‘bin’ etc.
 2.2	Create a branch ‘feature’ and make two commits to it.
