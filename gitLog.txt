@@ -1,0 +1,296 @@
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\Maksym_Grynkiv\source\repos\MaksGrynk00\HARDCORE> git log
+commit 40c655e677dac7aad5ecbbc58c7cb6f5e9b6dc2e (HEAD -> master, origin/master)
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 03:34:38 2024 +0300
+
+    update pursuit.txt file on master br
+
+commit 4c29129183679992ef78fe4efe8e49ea4aaeb0c6
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 03:03:46 2024 +0300
+
+    Create pursuit.txt
+
+commit 8ddc12975b26a5e8ae75f30c5bdc093aebd4e7d5
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 02:20:25 2024 +0300
+
+    Delete storm.txt
+
+commit 1c7246ee1c5091b5f3d5d9be40550d04b302b5bc
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 02:16:44 2024 +0300
+
+    Add 2 more strings in ‘storm.txt’
+
+commit e9f387df9f7fb1867229ea47d6e48380e3ee1cba
+Merge: 7e6d836 9e5790c
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 02:14:14 2024 +0300
+
+:...skipping...
+commit 40c655e677dac7aad5ecbbc58c7cb6f5e9b6dc2e (HEAD -> master, origin/master)
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 03:34:38 2024 +0300
+
+    update pursuit.txt file on master br
+
+commit 4c29129183679992ef78fe4efe8e49ea4aaeb0c6
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 03:03:46 2024 +0300
+
+    Create pursuit.txt
+
+commit 8ddc12975b26a5e8ae75f30c5bdc093aebd4e7d5
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 02:20:25 2024 +0300
+
+    Delete storm.txt
+
+commit 1c7246ee1c5091b5f3d5d9be40550d04b302b5bc
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 02:16:44 2024 +0300
+
+    Add 2 more strings in ‘storm.txt’
+
+commit e9f387df9f7fb1867229ea47d6e48380e3ee1cba
+Merge: 7e6d836 9e5790c
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 02:14:14 2024 +0300
+
+    Merge pull request #1 from MaksGrynk00/storm
+
+    Create storm.txt
+
+commit 9e5790c49d00d8d628bd2d431bf81953a5220f30
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 02:02:46 2024 +0300
+
+    Create storm.txt
+
+    Create storm.txt file in storm branch with 2 lines
+
+commit 7e6d836967f06d21eaa33027bb63d621a5d6380d
+Merge: 2b60a85 7e6fdc6
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 01:49:21 2024 +0300
+
+    Merge branch 'master' of https://github.com/MaksGrynk00/TRNG
+
+commit 2b60a850324c9935fb9bbe832ced943ec094025b
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 01:43:58 2024 +0300
+
+    update file arrows in master with new lines
+
+commit 7e6fdc698a5d4d574ed5c112daccc35a4426e743
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sun Jul 21 01:24:27 2024 +0300
+
+    Create arrows.txt
+
+    Add file arrrows.txt to master branch with 2 lines
+
+commit f921498bfbbe558835e57ce790c0295eae678024
+Author: mGrynk <maksgrinkiv@gmail.com>
+Date:   Sat Jul 20 01:02:59 2024 +0300
+
+    add text to file arrows.txt
+
+commit 0fea5990e6c32a72839463be25b55276ce94c234
+Author: mGrynk <maksgrinkiv@gmail.com>
+Date:   Sat Jul 20 00:57:55 2024 +0300
+
+    merge feature branch
+
+commit 23ddd25036fb14d62042405fb0e52308e053fef8
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sat Jul 20 00:17:48 2024 +0300
+
+    Update .gitignore
+
+    add to ignored files list new rules
+
+commit 0254edf80d022d2dbcbb0a7f6d0b8ad3027e3ad4
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Sat Jul 20 00:06:17 2024 +0300
+
+    Update song.txt
+
+    "finish my song"
+
+commit 1619147749ce5a0e132d68de5327a63d4fc3ccf0
+Author: mGrynk <maksgrinkiv@gmail.com>
+Date:   Fri Jul 19 23:53:29 2024 +0300
+
+    remame file module1 to heloword
+
+commit ac2dd6542f137fe3b9d55c832da8e367638b833a
+Author: mGrynk <maksgrinkiv@gmail.com>
+Date:   Fri Jul 19 19:40:06 2024 +0300
+
+    add first half of my favorite song
+
+commit 0a7431961611364fa9ba33daf3d41c51ab592350
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 19:01:23 2024 +0300
+
+    Create Home_Tasks.txt
+
+    Add file with Home Tasks descriptions
+
+commit ca2e03f0e9916ef23be54e6f0babe57b731fe70b
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:59:16 2024 +0300
+
+    Update README.md
+
+    remove home tasks from Read me
+
+commit 3314d6bbc4eb0e9ccee3f392b8af4ab499641bd0
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:38:00 2024 +0300
+
+    Update README.md
+
+    update read me to fix text alignments
+
+commit b4ad71fb4c3d09c700ea25f95356e7beb7ae0b7d
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:35:44 2024 +0300
+
+    Update README.md
+
+    add Home Tasks to Read me file
+
+commit 6fd5233e6cb25850ed072c3791a0d34069186f83
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:32:47 2024 +0300
+
+    Create song.txt
+
+    put a half of the text of my favorite song
+
+commit 5aa996e1a9de5c08fc256f654129a0c387d58585
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 12:39:40 2024 +0300
+
+    Create .gitignore
+
+    Create first .gitignore file
+
+commit d19b0c2a8231a6ede3b8629ab9c670709adf5199
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 12:32:32 2024 +0300
+
+    Create README.md
+:
+
+commit ca2e03f0e9916ef23be54e6f0babe57b731fe70b
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:59:16 2024 +0300
+
+    Update README.md
+
+    remove home tasks from Read me
+
+commit 3314d6bbc4eb0e9ccee3f392b8af4ab499641bd0
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:38:00 2024 +0300
+
+    Update README.md
+
+    update read me to fix text alignments
+
+commit b4ad71fb4c3d09c700ea25f95356e7beb7ae0b7d
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:35:44 2024 +0300
+
+    Update README.md
+
+    add Home Tasks to Read me file
+
+commit 6fd5233e6cb25850ed072c3791a0d34069186f83
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:32:47 2024 +0300
+
+    Create song.txt
+
+    put a half of the text of my favorite song
+
+commit 5aa996e1a9de5c08fc256f654129a0c387d58585
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 12:39:40 2024 +0300
+
+    Create .gitignore
+
+    Create first .gitignore file
+
+commit d19b0c2a8231a6ede3b8629ab9c670709adf5199
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 12:32:32 2024 +0300
+
+    Create README.md
+
+    Create README.md
+~
+~
+(END)
+commit 0a7431961611364fa9ba33daf3d41c51ab592350
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 19:01:23 2024 +0300
+
+    Create Home_Tasks.txt
+
+    Add file with Home Tasks descriptions
+
+commit ca2e03f0e9916ef23be54e6f0babe57b731fe70b
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:59:16 2024 +0300
+
+    Update README.md
+
+    remove home tasks from Read me
+
+commit 3314d6bbc4eb0e9ccee3f392b8af4ab499641bd0
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:38:00 2024 +0300
+
+    Update README.md
+
+    update read me to fix text alignments
+
+commit b4ad71fb4c3d09c700ea25f95356e7beb7ae0b7d
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:35:44 2024 +0300
+
+    Update README.md
+
+    add Home Tasks to Read me file
+
+commit 6fd5233e6cb25850ed072c3791a0d34069186f83
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 18:32:47 2024 +0300
+
+    Create song.txt
+
+    put a half of the text of my favorite song
+
+commit 5aa996e1a9de5c08fc256f654129a0c387d58585
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 12:39:40 2024 +0300
+
+    Create .gitignore
+
+    Create first .gitignore file
+
+commit d19b0c2a8231a6ede3b8629ab9c670709adf5199
+Author: MaksGrynk00 <maksym_grynkiv@epam.com>
+Date:   Fri Jul 19 12:32:32 2024 +0300
+
+    Create README.md
+
+    Create README.md
+(END)
