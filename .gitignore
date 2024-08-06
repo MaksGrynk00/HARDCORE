@@ -1,4 +1,5 @@
 Thumbs.db
+.pub
 .idea
 .vscode
 # Ignore files with extensions .db and .log
