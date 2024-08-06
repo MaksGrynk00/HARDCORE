@@ -1,7 +1,6 @@
 Thumbs.db
 .pub/
 .idea
-.vs
 .vs/
 # Ignore files with extensions .db and .log
 *.db
