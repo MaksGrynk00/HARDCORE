@@ -1,0 +1,12 @@
+.pub/
+.pub
+.vs/
+.vs
+# Ignore files with extensions .db and .log
+*.db
+*.log
+# Ignore folders named target and bin
+target/
+bin/
+.idea
+Thumbs.db
